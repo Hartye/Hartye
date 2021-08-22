@@ -10,8 +10,8 @@ I am a hightschool guy who really wants to help my family and to reach this goal
 
  <div>
   <a href="https://github.com/Hartye">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hartye&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hartye&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=Hartye&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hartye&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
