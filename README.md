@@ -25,7 +25,4 @@ I am a hightschool guy who really wants to help my family and to reach this goal
 <div> 
   <a href = "mailto:carlos.daniel.silva.pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-daniel-274a55219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/Hartye/Hartye/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
