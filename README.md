@@ -6,7 +6,6 @@ I am a hightschool guy who really wants to help my family and to reach this goal
 
 
 - Learning: javascript, css and html
-- Pronouns: he/him
 
  <div>
   <a href="https://github.com/Hartye">
