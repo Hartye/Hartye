@@ -13,10 +13,10 @@ I am a hightschool guy who really wants to help my family and to reach this goal
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hartye&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/IrFXuMudsPqbMF4FrY/giphy.gif?cid=790b7611f7964df80671af90a1a9986078c45e8e7ae34d2b&rid=giphy.gif&ct=g">
+  <img align="center" alt="Hartye-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Hartye-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Hartye-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Hartye-yoda" src="https://media.giphy.com/media/IrFXuMudsPqbMF4FrY/giphy.gif?cid=790b7611f7964df80671af90a1a9986078c45e8e7ae34d2b&rid=giphy.gif&ct=g">
 </div>
   
 ##
