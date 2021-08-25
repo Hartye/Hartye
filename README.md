@@ -6,6 +6,7 @@ I am a hightschool guy who really wants to help my family and to reach this goal
 
 
 - Learning: javascript, css and html
+- Using a little bit of ejs and sql
 
  <div>
   <a href="https://github.com/Hartye">
