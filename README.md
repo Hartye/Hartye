@@ -1,12 +1,7 @@
-## Hello I'm Daniel 👋
-
-
-I'm beginning at programming but I think I'll get where I want. 
-I am a hightschool guy who really wants to help my family and to reach this goal I first need to learn how to code.
-
+## Hello I'm Daniel and I'm 16👋
 
 - Learning: javascript, css and html
-- Using a little bit of ejs and sql
+- Complements ejs and sql
 
  <div>
   <a href="https://github.com/Hartye">
