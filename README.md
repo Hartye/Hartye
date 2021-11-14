@@ -1,6 +1,6 @@
 ## Hello I'm Daniel and I'm 16👋
 
-- Learning: javascript, css and html
+- Learning: javascript, css, html and C
 - Complements ejs and sql
 
  <div>
