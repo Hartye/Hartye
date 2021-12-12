@@ -1,7 +1,7 @@
 ## Hello I'm Daniel and I'm 16👋
 
 - Learning: javascript, css, html and C
-- Complements ejs and sql
+- Complements: ejs and sql
 
  <div>
   <a href="https://github.com/Hartye">
