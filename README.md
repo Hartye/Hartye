@@ -1,7 +1,8 @@
-## Hello I'm Daniel and I'm 16👋
+## Hello I'm Daniel and I'm 18👋
 
-- Learning: javascript, css, html and C
+- Learning: .NET Framework
 - Complements: ejs and sql
+- Know: JavaScript, CSS, HTML, C, C++, C# and SQL Server
 
  <div>
   <a href="https://github.com/Hartye">
