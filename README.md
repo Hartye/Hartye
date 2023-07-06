@@ -1,7 +1,7 @@
 ## Hello I'm Daniel and I'm 18👋
 
-- Learning: .NET Framework
-- Complements: ejs and sql
+- Learning: React JS
+- Complements: ejs and sqlite
 - Know: JavaScript, CSS, HTML, C, C++, C# and SQL Server
 
  <div>
