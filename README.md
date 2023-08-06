@@ -1,4 +1,4 @@
-## Hello I'm Daniel and I'm 18👋
+## Hello I'm Daniel👋
 
 - Learning: React JS
 - Complements: ejs and sqlite
