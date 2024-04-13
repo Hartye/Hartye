@@ -1,8 +1,8 @@
 ## Hello I'm Daniel👋
 
-- Learning: React JS
+- Learning: ReactJS, React Native and TypeScript
 - Complements: ejs and sqlite
-- Know: JavaScript, CSS, HTML, C, C++, C# and SQL Server
+- Experience in: JavaScript, CSS, HTML, C, C++, C# and SQL Server, Oracle
 
  <div>
   <a href="https://github.com/Hartye">
@@ -23,6 +23,6 @@
 ##
   
 <div> 
-  <a href = "mailto:carlos.daniel.silva.pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hartye.lilith@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-santos-274a55219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
