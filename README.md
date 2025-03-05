@@ -1,8 +1,7 @@
 ## Hello I'm Daniel👋
 
-- Learning: ReactJS, React Native and TypeScript
 - Complements: ejs and sqlite
-- Experience in: JavaScript, CSS, HTML, C, C++, C# and SQL Server, Oracle
+- Experience in: JavaScript, CSS, HTML, C, C++, C# and SQL Server, ReactJS, React Native and TypeScript
 
  <div>
   <a href="https://github.com/Hartye">
